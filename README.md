@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: lovetheapple
+- ⚡ Fun fact: ...
 <!--
 **melovetheapple/melovetheapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
